@@ -1,6 +1,9 @@
 import {render} from "react-dom";
-import Header from "./components/Header/Header";
+import App from "./app/App";
+
+
 render(
-  <Header />,
+  <App/>
+  ,
   document.getElementById('root')
 )
