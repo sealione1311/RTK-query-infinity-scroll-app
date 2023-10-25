@@ -1,4 +1,4 @@
-# test-picasso
+# RTK-query0infinity scroll app
 
 ## Запуск проекта
 ```
