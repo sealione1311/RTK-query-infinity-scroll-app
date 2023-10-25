@@ -1,4 +1,4 @@
-# RTK-query0infinity scroll app
+# RTK-query infinity scroll app
 
 ## Запуск проекта
 ```
